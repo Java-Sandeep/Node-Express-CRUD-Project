@@ -1,4 +1,11 @@
 # Node-Express-CRUD-Project
 
-## To run application first install dependencies using 
+## Getting Started
+To start application first you have to install dependencies
+```
 npm install
+```
+then start application using
+```
+npm start
+```
